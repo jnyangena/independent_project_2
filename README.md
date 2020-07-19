@@ -25,4 +25,5 @@ Visit https://github.com/jnyangena/independent_project_2.git and follow the inst
 
 ### License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-Copyright (c) 2020
+
+Copyright (c) **nyangena** 2020
